@@ -1,8 +1,5 @@
 //Megan Coumbe
-//CIS 223 400
-//Professor Wang
-//12 / 13 / 2023
-//Final 3 Q5
+
 #include <iostream>
 using namespace std; 
 double Median(int *array, int numElements)
