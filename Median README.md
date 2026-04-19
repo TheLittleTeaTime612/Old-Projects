@@ -19,3 +19,5 @@ You can then pick any number to be your elements up to 4 to be within this array
 <img width="331" height="126" alt="image" src="https://github.com/user-attachments/assets/277a4db7-1721-4df8-b98c-7da435e09f53" />
 
 ### Status: Updating WIP
+- If there are any suggestions or things that can be improved on, do not hesitate to reach out to me!
+- My current plans to expand this is to add a more divesrified ability to the user, allowing them to choose the size and any of the bugs that follow that plan.
