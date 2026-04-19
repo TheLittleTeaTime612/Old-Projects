@@ -1,4 +1,4 @@
-## Median Read Me
+## Median Calculator
 Quick Link to the cpp: [Median](https://github.com/TheLittleTeaTime612/Old-Projects/blob/main/Median.cpp)
 ## About This Project:
 ### Description
@@ -8,5 +8,14 @@ This Project allows the user to see a very basic design of how a mean is calcula
 - C++
 ### Using This Program Requirements:
 - Visual Studios Installed
-- That's it. 
+- That's it.
+### How to Use This Program
+- Download the cpp.
+- Open with Visual Studio's
+- Run with the debugger or in your terminal.
+It should prompt something like this:
+<img width="441" height="170" alt="image" src="https://github.com/user-attachments/assets/a6b3c657-c747-4142-afb6-90098de2fb17" />
+You can then pick any number to be your elements up to 4 to be within this array, just like the following.
+<img width="331" height="126" alt="image" src="https://github.com/user-attachments/assets/277a4db7-1721-4df8-b98c-7da435e09f53" />
+
 ### Status: Updating WIP
